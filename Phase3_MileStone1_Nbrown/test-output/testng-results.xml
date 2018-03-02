@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29734" started-at="2018-03-02T20:48:12Z" finished-at="2018-03-02T20:48:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29734" started-at="2018-03-02T20:48:12Z" finished-at="2018-03-02T20:48:42Z">
+      <class name="com.cname.TestScenarios.applicationName.Test1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.cname.TestScenarios.applicationName.Test1@5f375618]" name="test1" duration-ms="29600" started-at="2018-03-02T09:48:12Z" finished-at="2018-03-02T09:48:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.cname.TestScenarios.applicationName.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
